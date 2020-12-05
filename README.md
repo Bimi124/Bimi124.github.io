@@ -2,3 +2,4 @@
 
 ## Known Issues:
  - [ ] Menu doesn't workk correctly. I'm sorry.
+ - [ ] If it would work correctly I wouldn\`t be able to see the menu on desktop
