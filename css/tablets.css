@@ -1,0 +1,15 @@
+/* Style 4 tablets (width more than 40em = 640 pixels) */
+
+@media screen and (min-width: 40em){
+  header{
+    text-align: left;
+    width: 100%
+  }
+  nav>ul{
+    padding: 0 2rem;
+    overflow: hidden;
+  }
+  nav li{
+    display: inline-block;
+  }
+}

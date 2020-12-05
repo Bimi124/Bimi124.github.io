@@ -1,0 +1,11 @@
+article.preview{
+  border: 2px solid #522;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 10px;
+}
+.readmore::after{
+		content: "...";
+		color: #0ff;
+		text-decoration: none;
+}

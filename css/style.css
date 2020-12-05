@@ -1,0 +1,21 @@
+@import url("normalize.css");
+@import url("mobile.css");
+@import url("tablets.css");
+@import url("big_screens.css");
+
+@import url("../fontawesome/css/all.css");
+
+@import url("printer.css");
+
+@import url("coronavirus.css");
+
+html{
+  box-sizing: border-box;
+}
+*, *::before, *::after{
+  box-sizing: interhit;
+}
+
+code{
+		font-size: 9px;
+}

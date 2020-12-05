@@ -1,0 +1,13 @@
+#covid-19-msg{
+		text-align: center;
+		background-color: red;
+		color: white;
+		font-size: 1.5em;
+		letter-spacing: 10px;
+		position: fixed;
+		width: 100%;
+		bottom: 0px;
+}
+body{
+		padding-bottom: 1.5em;
+}

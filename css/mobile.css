@@ -1,0 +1,43 @@
+/* Style 4 mobile end devices (width up to 640 pixels) */
+#hamburgermenu{display:block;}
+body{
+  font-size: 20px;
+  color: #292939;
+}
+header{
+  text-align: center;
+  padding: 1em;
+  background-color: #00FFFF;
+  color: #fff;
+  width: inherit
+  position: fixed;
+}
+aside{
+  display: table-cell;
+}
+footer{
+  padding: 1em;
+  text-align: center;
+}
+#logo{
+  height: 50px;
+  border-radius: 100%;
+}
+nav>ul{
+  margin: 0;
+  list-style: none;
+}
+nav li{
+  padding: 0.6em 2rem;
+  display: block;
+}
+nav li.current{
+  background-color: #0cc;
+}
+nav a{
+  color: #D19880;
+  text-decoration: none;
+}
+nav a:hover{
+  color: #fff;
+}

@@ -1,0 +1,9 @@
+/* For big screens (1024 pixels or more)*/
+@media screen and (min-width: 64em){
+  body{
+    font-size: 12px;
+  }
+  #logo{
+    height: 20px;
+  }
+}
