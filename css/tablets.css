@@ -12,4 +12,6 @@
   nav li{
     display: inline-block;
   }
+  #hamburgermenu{
+    display: none;
 }
